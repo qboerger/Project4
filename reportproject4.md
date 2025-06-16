@@ -24,5 +24,3 @@ For this final project of class I used a random forest to particpate in another 
 LINK: https://github.com/qboerger/Project4
 
 
-
-
