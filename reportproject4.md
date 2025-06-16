@@ -23,4 +23,4 @@ For this final project of class I used a random forest to particpate in another 
 
 LINK: https://github.com/qboerger/Project4
 
-
+Note: I did have the csv files in my repo, but that was before I chnaged my code to pull them in directly from the competition page. 
