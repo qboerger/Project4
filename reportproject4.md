@@ -21,6 +21,8 @@ To work on this model futher or make some improvments is first to better handle 
 
 For this final project of class I used a random forest to particpate in another Kaggle competition. I had to clean the data then create the model which I included using of the train test split technique. The training accuracy was hgiher than the testing accuracy, which could be slkighyl overfitting, but the results were good and inedicates certain variables like age or cyrosleep have more of an impact on if people were transported. 
 
+LINK: https://github.com/qboerger/Project4
+
 
 
 
